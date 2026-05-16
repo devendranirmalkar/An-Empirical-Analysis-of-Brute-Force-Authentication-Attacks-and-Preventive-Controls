@@ -1,0 +1,2 @@
+# An-Empirical-Analysis-of-Brute-Force-Authentication-Attacks-and-Preventive-Controls
+Brute force attacks remain one of the most persistent and effective methods used to  compromise authentication systems. This project investigates the behavior and impact  of brute force attacks on SSH-based authentication in a controlled cloud environment  using Microsoft Azure. A deliberately vulnerable system is configured and subjected 
